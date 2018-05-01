@@ -17,7 +17,7 @@ credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme cr
 #         Theme           #
 # ----------------------- #
 
-remote_theme: swcool/landing-page-theme
+remote_theme: mmistakes/minimal-mistakes
 
 # ----------------------- #
 #    Jekyll & Plugins     #
